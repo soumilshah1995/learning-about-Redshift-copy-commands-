@@ -4,6 +4,10 @@ learning about Redshift copy commands
 ### Tutorial  https://www.youtube.com/watch?v=cevJYWBWzsI
 
 
+
+##### install https://www.sql-workbench.eu/
+
+
 ```
 
 CREATE TABLE "Employees" (
