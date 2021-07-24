@@ -1,0 +1,17 @@
+
+CREATE TABLE "Employees" (
+  Name varchar(255) default NULL,
+  Number varchar(255) default NULL,
+  Country varchar(255) default NULL,
+  ZIP varchar(255) default NULL,
+  Birthday varchar(255),
+  Sex varchar(255) default NULL,
+  MaritalStatus varchar(255) default NULL,
+  DateOfHire varchar(255),
+  DateOfTermination varchar(255),
+  ReasonForTermination varchar(255) default NULL,
+  EmploymentStatus varchar(255) default NULL,
+  Department varchar(255) default NULL,
+  PerformanceScore varchar(255) default NULL,
+  City varchar(255)
+);
