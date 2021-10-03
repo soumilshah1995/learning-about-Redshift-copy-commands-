@@ -1,7 +1,7 @@
 # learning-about-Redshift-copy-commands-
 learning about Redshift copy commands 
 
-### Tutorial  https://www.youtube.com/watch?v=cevJYWBWzsI
+### Tutorial  https://www.youtube.com/watch?v=ghvOj8C73GA&t=463s
 
 
 
